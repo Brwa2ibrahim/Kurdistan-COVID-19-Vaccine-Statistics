@@ -1,4 +1,5 @@
 Kurdistan COVID-19 Vaccine Statistics
+
 Description
 This project provides a comprehensive analysis of COVID-19 vaccination statistics in the Kurdistan region. Using data collected on vaccination rates, demographic information, and other relevant metrics, the project aims to offer insights into the progress and impact of the vaccination campaign. The analysis is performed using Python and is documented in a Jupyter Notebook, with the data stored in a CSV file.
 
